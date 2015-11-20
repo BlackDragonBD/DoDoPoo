@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+<channels>
+
+<channel>
+      <name>[COLOR blue]U[/COLOR][COLOR white]K Live TV[/COLOR]</name>
+  <thumbnail>http://s6.postimg.org/puqgq68pd/12248781_10156201994950557_1757028535_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://4legends.co.uk/Legends/add-on/LiveTV.xml</externallink>
+<info></info>
+</channel>
+  </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]S[/COLOR][COLOR white]ports[/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/t0b2gdrbl/12248855_10156201994965557_386767031_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/Sports.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]M[/COLOR][COLOR white]usic[/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/62oaqvx5d/12226574_10156201994990557_1889334300_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/Music.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]2[/COLOR][COLOR white]4/7 Shows[/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/nxtqlli1d/12233221_10156201994915557_1464634149_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/247shows.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]N[/COLOR][COLOR white]ew Movies [/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/5efg7xyfl/12231140_10156201994970557_1879466002_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/NewReleases.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]K[/COLOR][COLOR white]ids Movies [/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/d8g1tc68h/12233558_10156201994975557_1882291200_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/Kids.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]M[/COLOR][COLOR white]arvel[/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/m8kndj2c1/12243783_10156201994945557_439026936_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/marvel.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+     <name>[COLOR blue]3[/COLOR][COLOR white]D Movies [/COLOR]</name>
+   <thumbnail>http://s6.postimg.org/4h90z2mxd/12243720_10156201994935557_860223426_n_1.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://4legends.co.uk/Legends/add-on/3DMainMenu.xml</externallink>
+<info></info>
+</channel>
+   </channels>
+
+<channels>
+
+<channel>
+      <name>[COLOR blue]A[/COLOR][COLOR white]cestreams[/COLOR]</name>
+  <thumbnail>http://s6.postimg.org/i8di1abv5/12242139_10156201994925557_601874748_n.jpg</thumbnail>
+<fanart>http://s6.postimg.org/j6b118eq9/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://4legends.co.uk/Legends/add-on/Acestreams.xml</externallink>
+<info></info>
+</channel>
+  </channels>
+
+
